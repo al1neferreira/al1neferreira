@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, world 👋 ! I'm Aline Ferreira </h1> 
+<h1 align="center">Hello, world! 👋 I'm Aline Ferreira :woman_technologist:	 </h1> 
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
